@@ -7,7 +7,7 @@ A Windows C++ Application demostrate Zoom Meeting SDK sending video raw data as 
 ```
 git clone https://github.com/Microsoft/vcpkg.git
 cd vcpkg
-./bootstrap-vcpkg.sh
+./bootstrap-vcpkg.bat
 ./vcpkg integrate install
 ```
 
